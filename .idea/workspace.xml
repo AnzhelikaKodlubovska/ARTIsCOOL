@@ -4,20 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f9c8a2d-35e6-425b-9cc5-67c3fe6921e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject_Django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectdjango/main/static/main/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectdjango/main/static/main/img/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectdjango/main/templates/main/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectdjango/main/templates/main/contacts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectdjango/main/templates/main/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectdjango/main/templates/main/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectdjango/main/urls.py" afterDir="false" />
+    <list default="true" id="0f9c8a2d-35e6-425b-9cc5-67c3fe6921e6" name="Changes" comment="part №1">
+      <change afterPath="$PROJECT_DIR$/projectdjango/main/static/main/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectdjango/main/static/main/img/pic_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectdjango/main/static/main/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/projectdjango/main/static/main/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectdjango/main/static/main/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectdjango/main/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectdjango/main/templates/main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectdjango/main/templates/main/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectdjango/main/templates/main/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectdjango/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/projectdjango/main/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +31,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.manage.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.manage.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Projects/pythonProject_Django/projectdjango/main/static/main/img"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\pythonProject_Django\projectdjango\main\static\main\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\pythonProject_Django\projectdjango\main\static\main\img" />
       <recent name="D:\Projects\pythonProject_Django\projectdjango\main\templates\main" />
@@ -94,6 +93,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730712723773</updated>
     </task>
+    <task id="LOCAL-00001" summary="part №1">
+      <option name="closed" value="true" />
+      <created>1730903899992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730903899992</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="part №1" />
+    <option name="LAST_COMMIT_MESSAGE" value="part №1" />
   </component>
 </project>

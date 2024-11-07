@@ -13,7 +13,7 @@
 </head>
 <body>
     <aside>
-        <img src="{% static 'main/img/logo.jpg' %}" alt="MyLogo">
+        <img src="{% static 'main/img/logo.png' %}" alt="MyLogo">
         <span class="logo">ARTIsCOOL</span>
 <!--        <h3>Навігація</h3>-->
         <ul>
@@ -23,10 +23,11 @@
             <li><a href="{% url 'contacts' %}"><i class="fa-solid fa-paper-plane"></i>  Контакти</a></li>
         </ul>
     </aside>
-    <main>
+    <main style="background-image: url('{% static 'main/img/pic_1.png' %}'); background-size: contain; background-repeat: no-repeat; background-position: right; min-height: 100vh;">
     {% block content %}
+    <span class="pic_1"></span>
     {% endblock %}
-    </main>
-    
+</main>
+
 </body>
 </html>
