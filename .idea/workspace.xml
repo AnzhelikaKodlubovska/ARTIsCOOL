@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f9c8a2d-35e6-425b-9cc5-67c3fe6921e6" name="Changes" comment="part №2">
-      <change afterPath="$PROJECT_DIR$/projectdjango/main/templates/main/registration.html" afterDir="false" />
+    <list default="true" id="0f9c8a2d-35e6-425b-9cc5-67c3fe6921e6" name="Changes" comment="part №3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectdjango/main/static/main/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/projectdjango/main/static/main/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectdjango/main/static/main/img/pic_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/projectdjango/main/static/main/img/pic_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectdjango/main/templates/main/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectdjango/main/templates/main/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectdjango/main/templates/main/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectdjango/main/templates/main/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectdjango/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/projectdjango/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectdjango/main/templates/main/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectdjango/main/templates/main/layout.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,12 +103,29 @@
       <option name="project" value="LOCAL" />
       <updated>1730997457338</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="part №3">
+      <option name="closed" value="true" />
+      <created>1731070785511</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731070785511</updated>
+    </task>
+    <task id="LOCAL-00004" summary="part №3">
+      <option name="closed" value="true" />
+      <created>1731070838149</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731070838150</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="part №1" />
     <MESSAGE value="part №2" />
-    <option name="LAST_COMMIT_MESSAGE" value="part №2" />
+    <MESSAGE value="part №3" />
+    <option name="LAST_COMMIT_MESSAGE" value="part №3" />
   </component>
 </project>
