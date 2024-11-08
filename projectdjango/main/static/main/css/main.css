@@ -59,7 +59,7 @@ main {
 main .features {
     margin-top: 40px;
     margin-left: 80px;
-    color: #696969;
+    color: #000000;
     text-align: center;
     width: 75%;
 }
@@ -98,3 +98,184 @@ main .btn-primary {
 main .btn-primary:hover {
     background-color: #0056b3;
 }
+
+.about-us h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center; /* Заголовок по центру */
+}
+
+.about-us h2 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color: #333333; /* Тёмный цвет для акцента */
+}
+
+.about-us p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    color: #000000; /* Цвет для текста */
+}
+
+.about-us ul {
+    list-style: none; /* Убираем стандартные маркеры списка */
+    padding: 0;
+    margin-top: 20px;
+}
+
+.about-us li {
+    font-size: 18px;
+    margin-bottom: 10px;
+    position: relative;
+    padding-left: 20px; /* Отступ для кастомного маркера */
+    line-height: 1.6;
+    color: #000000;
+}
+
+.about-us li::before {
+    content: "✔"; /* Кастомный маркер */
+    position: absolute;
+    left: 0;
+    color: #007BFF; /* Синий цвет маркера */
+    font-size: 18px;
+    padding-right: 8px;
+}
+
+.contacts {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+}
+
+.contacts h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.contacts h2 {
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.contacts p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.contacts ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contacts ul li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button.btn-primary {
+    background-color: #007BFF;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.contacts {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+}
+
+.contacts h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.contacts h2 {
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.contacts p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.contacts ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contacts ul li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button.btn-primary {
+    background-color: #007BFF;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button.btn-primary:hover {
+    background-color: #0056b3;
+}
+
